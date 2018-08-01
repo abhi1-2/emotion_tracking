@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/avisheksarkar/Desktop/emotion/facial_expressions/model.ckpt"
+all_model_checkpoint_paths: "/Users/avisheksarkar/Desktop/emotion/facial_expressions/model.ckpt"
